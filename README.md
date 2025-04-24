@@ -14,7 +14,7 @@ A responsive and user-friendly ToDo application built using HTML, CSS, and JavaS
 ## Live Demo
 
 Check out the live version of the app here:  
-[*Live ToDo App*]([https://your-live-link.com](https://shubham-220305.github.io/TODO/))
+[*Live ToDo App*](https://shubham-220305.github.io/TODO/)
 
 ## Technologies Used
 
