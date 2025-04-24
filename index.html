@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TODO</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="heading">SMART TO-DO LIST</h1>
+        <div class="main-panel">
+            <form id="task-form">
+                <input type="text" id="task-input" placeholder="Enter task..." required />
+                <input type="datetime-local" id="task-deadline" />
+                <button type="submit" class="add-task-btn">Add Task</button>
+            </form> 
+            <div class="filter-btns">
+                <button class="all-btn">All</button>
+                <button class="pending-btn">Pending</button>
+                <button class="completed-btn">Completed</button>
+            </div>
+            <div class="main-tasks">
+                
+            </div>          
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
